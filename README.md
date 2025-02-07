@@ -1,8 +1,4 @@
-To make the tutorial more intuitive and engaging, I'll simplify the explanations, use a more conversational tone, and focus on the practical aspects. Here's a revised version:
 
----
-
-### **Concepts_Tutorial.md**
 
 # 🧠 Day 2: Exploring Word Embeddings - A Friendly Guide
 
